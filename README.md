@@ -1,1 +1,0 @@
-# maketronics-smart-data-display
