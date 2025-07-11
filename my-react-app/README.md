@@ -16,7 +16,7 @@ SmartShelf is a modern React-based web application that fetches book data from a
 
 ### 📽 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Watch the demo](https://youtu.be/8TI5uJ2XC3M)
 
 > 🔁 Replace `YOUR_VIDEO_ID_HERE` with your actual YouTube video ID.
 
