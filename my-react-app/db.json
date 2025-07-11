@@ -1,0 +1,804 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "description": "A novel about racial injustice in the Deep South.",
+      "price": 14.99
+    },
+    {
+      "id": 2,
+      "name": "1984",
+      "author": "George Orwell",
+      "genre": "Science Fiction",
+      "description": "A dystopian novel about totalitarian government surveillance.",
+      "price": 12.5
+    },
+    {
+      "id": 3,
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "description": "A story about the American dream and tragic love.",
+      "price": 10.0
+    },
+    {
+      "id": 4,
+      "name": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "genre": "Science & Technology",
+      "description": "Explains complex cosmological concepts in an accessible way.",
+      "price": 18.75
+    },
+    {
+      "id": 5,
+      "name": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Young Adult",
+      "description": "A novel about teenage angst and alienation.",
+      "price": 13.99
+    },
+    {
+      "id": 6,
+      "name": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "description": "Classic novel about manners and matrimonial machinations.",
+      "price": 11.99
+    },
+    {
+      "id": 7,
+      "name": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "description": "A fantasy adventure preceding the Lord of the Rings.",
+      "price": 15.5
+    },
+    {
+      "id": 8,
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "description": "Young wizard's first year at Hogwarts.",
+      "price": 16.99
+    },
+    {
+      "id": 9,
+      "name": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "genre": "Mystery",
+      "description": "A symbologist uncovers secrets in art and religion.",
+      "price": 14.0
+    },
+    {
+      "id": 10,
+      "name": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "description": "Journey of a shepherd seeking his personal legend.",
+      "price": 13.0
+    },
+    {
+      "id": 11,
+      "name": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "genre": "Thriller",
+      "description": "Investigation into a disappearance with dark secrets.",
+      "price": 14.5
+    },
+    {
+      "id": 12,
+      "name": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "genre": "Non-fiction",
+      "description": "Exploration of how our minds work with dual systems.",
+      "price": 19.99
+    },
+    {
+      "id": 13,
+      "name": "The Fault in Our Stars",
+      "author": "John Green",
+      "genre": "Young Adult",
+      "description": "A love story of two teenagers with cancer.",
+      "price": 12.5
+    },
+    {
+      "id": 14,
+      "name": "The Road",
+      "author": "Cormac McCarthy",
+      "genre": "Post-apocalyptic Fiction",
+      "description": "A father and son's journey through a devastated world.",
+      "price": 14.99
+    },
+    {
+      "id": 15,
+      "name": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "description": "Human history from the Stone Age to the 21st century.",
+      "price": 21.0
+    },
+    {
+      "id": 16,
+      "name": "Gone Girl",
+      "author": "Gillian Flynn",
+      "genre": "Thriller",
+      "description": "A marriage gone terribly wrong with many twists.",
+      "price": 15.0
+    },
+    {
+      "id": 17,
+      "name": "The Art of War",
+      "author": "Sun Tzu",
+      "genre": "Philosophy",
+      "description": "Ancient Chinese military treatise on strategy and tactics.",
+      "price": 9.99
+    },
+    {
+      "id": 18,
+      "name": "Meditations",
+      "author": "Marcus Aurelius",
+      "genre": "Philosophy",
+      "description": "Personal writings of Stoic philosophy by a Roman emperor.",
+      "price": 11.75
+    },
+    {
+      "id": 19,
+      "name": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Technology",
+      "description": "A guide to writing clean, maintainable software code.",
+      "price": 34.99
+    },
+    {
+      "id": 20,
+      "name": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "genre": "Self-Help",
+      "description": "A counterintuitive approach to living a good life.",
+      "price": 14.99
+    },
+    {
+      "id": 21,
+      "name": "Educated",
+      "author": "Tara Westover",
+      "genre": "Biography",
+      "description": "Memoir of a woman who grew up in a strict and abusive household but eventually escaped to learn.",
+      "price": 16.99
+    },
+    {
+      "id": 22,
+      "name": "Becoming",
+      "author": "Michelle Obama",
+      "genre": "Biography",
+      "description": "The memoir of former First Lady Michelle Obama.",
+      "price": 18.99
+    },
+    {
+      "id": 23,
+      "name": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "genre": "Mystery",
+      "description": "A psychological thriller about a woman who stops speaking.",
+      "price": 14.0
+    },
+    {
+      "id": 24,
+      "name": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Science Fiction",
+      "description": "Epic sci-fi novel set on a desert planet with political intrigue.",
+      "price": 15.5
+    },
+    {
+      "id": 25,
+      "name": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "genre": "Self-Help",
+      "description": "Explores the science behind habit formation.",
+      "price": 13.5
+    },
+    {
+      "id": 26,
+      "name": "Thinking in Systems",
+      "author": "Donella H. Meadows",
+      "genre": "Non-fiction",
+      "description": "An introduction to systems thinking and how it applies globally.",
+      "price": 20.0
+    },
+    {
+      "id": 27,
+      "name": "The Five Love Languages",
+      "author": "Gary Chapman",
+      "genre": "Self-Help",
+      "description": "How to express and receive love in meaningful ways.",
+      "price": 12.99
+    },
+    {
+      "id": 28,
+      "name": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "genre": "Fantasy",
+      "description": "The first book in the Kingkiller Chronicle series.",
+      "price": 16.0
+    },
+    {
+      "id": 29,
+      "name": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "genre": "Biography",
+      "description": "Authorized biography of Apple co-founder Steve Jobs.",
+      "price": 18.5
+    },
+    {
+      "id": 30,
+      "name": "The Martian",
+      "author": "Andy Weir",
+      "genre": "Science Fiction",
+      "description": "A stranded astronaut's survival on Mars.",
+      "price": 14.95
+    },
+    {
+      "id": 31,
+      "name": "The Lean Startup",
+      "author": "Eric Ries",
+      "genre": "Business",
+      "description": "How to create successful startups efficiently.",
+      "price": 21.99
+    },
+    {
+      "id": 32,
+      "name": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "genre": "Non-fiction",
+      "description": "Exploring the two systems of thought in human decision making.",
+      "price": 19.99
+    },
+    {
+      "id": 33,
+      "name": "Animal Farm",
+      "author": "George Orwell",
+      "genre": "Fiction",
+      "description": "An allegorical novella about farm animals revolting.",
+      "price": 9.5
+    },
+    {
+      "id": 34,
+      "name": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "genre": "Science Fiction",
+      "description": "Dystopian novel of a theocratic regime controlling women.",
+      "price": 13.5
+    },
+    {
+      "id": 35,
+      "name": "The Silent Corner",
+      "author": "Dean Koontz",
+      "genre": "Thriller",
+      "description": "A woman investigates mysterious suicides including her husband’s.",
+      "price": 15.0
+    },
+    {
+      "id": 36,
+      "name": "Outliers",
+      "author": "Malcolm Gladwell",
+      "genre": "Non-fiction",
+      "description": "Examining the factors that contribute to high levels of success.",
+      "price": 14.49
+    },
+    {
+      "id": 37,
+      "name": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "genre": "Fantasy",
+      "description": "First book in the epic fantasy series 'A Song of Ice and Fire'.",
+      "price": 17.99
+    },
+    {
+      "id": 38,
+      "name": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "genre": "Biography",
+      "description": "The story behind HeLa cells and their impact on science.",
+      "price": 13.99
+    },
+    {
+      "id": 39,
+      "name": "The Art of Happiness",
+      "author": "Dalai Lama",
+      "genre": "Religion & Spirituality",
+      "description": "Insights and teachings about happiness and mental peace.",
+      "price": 11.5
+    },
+    {
+      "id": 40,
+      "name": "The Road Less Traveled",
+      "author": "M. Scott Peck",
+      "genre": "Self-Help",
+      "description": "Psychological and spiritual growth guide.",
+      "price": 14.0
+    },
+    {
+      "id": 41,
+      "name": "The Catch-22",
+      "author": "Joseph Heller",
+      "genre": "Fiction",
+      "description": "Satirical novel about absurdities of war.",
+      "price": 12.0
+    },
+    {
+      "id": 42,
+      "name": "The Secret",
+      "author": "Rhonda Byrne",
+      "genre": "Self-Help",
+      "description": "Exploring the law of attraction.",
+      "price": 12.99
+    },
+    {
+      "id": 43,
+      "name": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "genre": "Religion & Spirituality",
+      "description": "Guide to spiritual enlightenment and presence.",
+      "price": 13.5
+    },
+    {
+      "id": 44,
+      "name": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "genre": "Self-Help",
+      "description": "Principles for personal and professional effectiveness.",
+      "price": 16.0
+    },
+    {
+      "id": 45,
+      "name": "The Jungle",
+      "author": "Upton Sinclair",
+      "genre": "Fiction",
+      "description": "Exposé on the meatpacking industry in the early 20th century.",
+      "price": 9.99
+    },
+    {
+      "id": 46,
+      "name": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "genre": "Fantasy",
+      "description": "Series of fantasy novels for children set in Narnia.",
+      "price": 25.0
+    },
+    {
+      "id": 47,
+      "name": "The Outsiders",
+      "author": "S.E. Hinton",
+      "genre": "Young Adult",
+      "description": "A story about teenage gangs and social class.",
+      "price": 10.5
+    },
+    {
+      "id": 48,
+      "name": "Blink",
+      "author": "Malcolm Gladwell",
+      "genre": "Non-fiction",
+      "description": "The power of thinking without thinking.",
+      "price": 13.0
+    },
+    {
+      "id": 49,
+      "name": "The Winds of Winter",
+      "author": "George R.R. Martin",
+      "genre": "Fantasy",
+      "description": "Unreleased yet highly anticipated installment of A Song of Ice and Fire.",
+      "price": 30.0
+    },
+    {
+      "id": 50,
+      "name": "The Stranger",
+      "author": "Albert Camus",
+      "genre": "Philosophy",
+      "description": "Existential novel about absurdism.",
+      "price": 14.0
+    },
+    {
+      "id": 51,
+      "name": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "genre": "Science Fiction",
+      "description": "A dystopian future where books are banned.",
+      "price": 12.75
+    },
+    {
+      "id": 52,
+      "name": "Dracula",
+      "author": "Bram Stoker",
+      "genre": "Horror",
+      "description": "Gothic novel introducing Count Dracula.",
+      "price": 11.0
+    },
+    {
+      "id": 53,
+      "name": "The Shining",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "description": "Psychological horror novel set in a haunted hotel.",
+      "price": 14.99
+    },
+    {
+      "id": 54,
+      "name": "IT",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "description": "Novel about an evil entity terrorizing children.",
+      "price": 19.5
+    },
+    {
+      "id": 55,
+      "name": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "genre": "Fiction",
+      "description": "A man wakes up transformed into a giant insect.",
+      "price": 8.99
+    },
+    {
+      "id": 56,
+      "name": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Fiction",
+      "description": "A psychological novel about morality and guilt.",
+      "price": 13.5
+    },
+    {
+      "id": 57,
+      "name": "War and Peace",
+      "author": "Leo Tolstoy",
+      "genre": "Historical Fiction",
+      "description": "Epic novel set during Napoleonic Wars.",
+      "price": 21.0
+    },
+    {
+      "id": 58,
+      "name": "Les Misérables",
+      "author": "Victor Hugo",
+      "genre": "Historical Fiction",
+      "description": "A novel about justice, love, and redemption in France.",
+      "price": 16.99
+    },
+    {
+      "id": 59,
+      "name": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "genre": "Fiction",
+      "description": "A tragic romance set in imperial Russian society.",
+      "price": 15.5
+    },
+    {
+      "id": 60,
+      "name": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "genre": "Fiction",
+      "description": "The adventures of a man who imagines himself a knight.",
+      "price": 14.0
+    },
+    {
+      "id": 61,
+      "name": "Catch-22",
+      "author": "Joseph Heller",
+      "genre": "Satire",
+      "description": "A satirical take on the absurdity of war.",
+      "price": 13.5
+    },
+    {
+      "id": 62,
+      "name": "Lolita",
+      "author": "Vladimir Nabokov",
+      "genre": "Fiction",
+      "description": "Controversial novel about obsession and manipulation.",
+      "price": 12.0
+    },
+    {
+      "id": 63,
+      "name": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Science Fiction",
+      "description": "Dystopian vision of a highly controlled society.",
+      "price": 11.99
+    },
+    {
+      "id": 64,
+      "name": "Lord of the Flies",
+      "author": "William Golding",
+      "genre": "Fiction",
+      "description": "A group of boys stranded on an island descend into savagery.",
+      "price": 10.5
+    },
+    {
+      "id": 65,
+      "name": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "genre": "Fiction",
+      "description": "A dark tale of passion and revenge on the Yorkshire moors.",
+      "price": 9.99
+    },
+    {
+      "id": 66,
+      "name": "Great Expectations",
+      "author": "Charles Dickens",
+      "genre": "Fiction",
+      "description": "The growth and personal development of an orphan named Pip.",
+      "price": 12.0
+    },
+    {
+      "id": 67,
+      "name": "Moby Dick",
+      "author": "Herman Melville",
+      "genre": "Fiction",
+      "description": "The quest to capture a giant white whale.",
+      "price": 13.5
+    },
+    {
+      "id": 68,
+      "name": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "genre": "Fiction",
+      "description": "Journey into the Congo revealing imperialism’s darkness.",
+      "price": 10.75
+    },
+    {
+      "id": 69,
+      "name": "The Bell Jar",
+      "author": "Sylvia Plath",
+      "genre": "Fiction",
+      "description": "A semi-autobiographical novel about mental illness.",
+      "price": 11.5
+    },
+    {
+      "id": 70,
+      "name": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "genre": "Historical Fiction",
+      "description": "The struggles of a poor family during the Great Depression.",
+      "price": 14.95
+    },
+    {
+      "id": 71,
+      "name": "Invisible Man",
+      "author": "Ralph Ellison",
+      "genre": "Fiction",
+      "description": "A novel about African American identity and social invisibility.",
+      "price": 15.0
+    },
+    {
+      "id": 72,
+      "name": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut",
+      "genre": "Science Fiction",
+      "description": "A satirical novel about WWII and time travel.",
+      "price": 12.5
+    },
+    {
+      "id": 73,
+      "name": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "genre": "Magical Realism",
+      "description": "Story of the Buendía family across generations.",
+      "price": 16.0
+    },
+    {
+      "id": 74,
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "genre": "Science Fiction",
+      "description": "A comedic space adventure.",
+      "price": 11.99
+    },
+    {
+      "id": 75,
+      "name": "The Color Purple",
+      "author": "Alice Walker",
+      "genre": "Historical Fiction",
+      "description": "A story of African American women in early 20th century Georgia.",
+      "price": 13.5
+    },
+    {
+      "id": 76,
+      "name": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "genre": "Historical Fiction",
+      "description": "Story set in London and Paris before/during the French Revolution.",
+      "price": 11.0
+    },
+    {
+      "id": 77,
+      "name": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Horror",
+      "description": "The creation of a monster and its consequences.",
+      "price": 9.5
+    },
+    {
+      "id": 78,
+      "name": "The Odyssey",
+      "author": "Homer",
+      "genre": "Epic Poetry",
+      "description": "Epic journey of Odysseus returning home from the Trojan War.",
+      "price": 14.0
+    },
+    {
+      "id": 79,
+      "name": "Macbeth",
+      "author": "William Shakespeare",
+      "genre": "Drama",
+      "description": "A tragedy of power, ambition, and guilt.",
+      "price": 10.0
+    },
+    {
+      "id": 80,
+      "name": "Hamlet",
+      "author": "William Shakespeare",
+      "genre": "Drama",
+      "description": "A prince’s quest for revenge and moral struggle.",
+      "price": 10.25
+    },
+    {
+      "id": 81,
+      "name": "The Canterbury Tales",
+      "author": "Geoffrey Chaucer",
+      "genre": "Poetry",
+      "description": "Collection of stories told by pilgrims traveling to Canterbury.",
+      "price": 12.0
+    },
+    {
+      "id": 82,
+      "name": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "genre": "Poetry",
+      "description": "Epic poem describing hell, purgatory, and heaven.",
+      "price": 15.5
+    },
+    {
+      "id": 83,
+      "name": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "genre": "Mystery",
+      "description": "A woman's act of violence against her husband and silence thereafter.",
+      "price": 14.0
+    },
+    {
+      "id": 84,
+      "name": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "genre": "Mystery",
+      "description": "A psychological thriller involving missing persons.",
+      "price": 13.0
+    },
+    {
+      "id": 85,
+      "name": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Young Adult",
+      "description": "Dystopian future where teens fight to the death on TV.",
+      "price": 14.5
+    },
+    {
+      "id": 86,
+      "name": "Divergent",
+      "author": "Veronica Roth",
+      "genre": "Young Adult",
+      "description": "Set in a dystopian future Chicago.",
+      "price": 12.99
+    },
+    {
+      "id": 87,
+      "name": "The Maze Runner",
+      "author": "James Dashner",
+      "genre": "Young Adult",
+      "description": "Teens trapped in a mysterious maze.",
+      "price": 13.5
+    },
+    {
+      "id": 88,
+      "name": "Twilight",
+      "author": "Stephenie Meyer",
+      "genre": "Young Adult",
+      "description": "A vampire romance series.",
+      "price": 15.0
+    },
+    {
+      "id": 89,
+      "name": "Percy Jackson & the Olympians",
+      "author": "Rick Riordan",
+      "genre": "Young Adult",
+      "description": "Modern adventures with Greek demigods.",
+      "price": 17.0
+    },
+    {
+      "id": 90,
+      "name": "Harry Potter and the Chamber of Secrets",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "description": "The second book in the Harry Potter series.",
+      "price": 16.99
+    },
+    {
+      "id": 91,
+      "name": "Goodnight Moon",
+      "author": "Margaret Wise Brown",
+      "genre": "Children’s",
+      "description": "Classic bedtime picture book.",
+      "price": 7.99
+    },
+    {
+      "id": 92,
+      "name": "Where the Wild Things Are",
+      "author": "Maurice Sendak",
+      "genre": "Children’s",
+      "description": "A boy's imaginative journey to an island of monsters.",
+      "price": 8.5
+    },
+    {
+      "id": 93,
+      "name": "Charlotte’s Web",
+      "author": "E.B. White",
+      "genre": "Children’s",
+      "description": "A story of friendship between a pig and a spider.",
+      "price": 9.99
+    },
+    {
+      "id": 94,
+      "name": "Green Eggs and Ham",
+      "author": "Dr. Seuss",
+      "genre": "Children’s",
+      "description": "A fun beginner book focusing on rhymes and themes.",
+      "price": 6.5
+    },
+    {
+      "id": 95,
+      "name": "The Very Hungry Caterpillar",
+      "author": "Eric Carle",
+      "genre": "Children’s",
+      "description": "A caterpillar eats his way through a variety of foods.",
+      "price": 7.0
+    },
+    {
+      "id": 96,
+      "name": "The Cat in the Hat",
+      "author": "Dr. Seuss",
+      "genre": "Children’s",
+      "description": "A mischievous cat brings chaos to two children.",
+      "price": 6.99
+    },
+    {
+      "id": 97,
+      "name": "Matilda",
+      "author": "Roald Dahl",
+      "genre": "Children’s",
+      "description": "A gifted girl uses her powers to overcome adversity.",
+      "price": 12.0
+    },
+    {
+      "id": 98,
+      "name": "Charlie and the Chocolate Factory",
+      "author": "Roald Dahl",
+      "genre": "Children’s",
+      "description": "Children visit a magical chocolate factory.",
+      "price": 13.5
+    },
+    {
+      "id": 99,
+      "name": "Winnie-the-Pooh",
+      "author": "A.A. Milne",
+      "genre": "Children’s",
+      "description": "Adventures of Pooh Bear and friends.",
+      "price": 8.99
+    },
+    {
+      "id": 100,
+      "name": "Diary of a Wimpy Kid",
+      "author": "Jeff Kinney",
+      "genre": "Children’s",
+      "description": "Humorous journal of a middle school kid.",
+      "price": 9.5
+    }
+  ]
+}
