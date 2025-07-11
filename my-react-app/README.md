@@ -14,10 +14,6 @@ SmartShelf is a modern React-based web application that fetches book data from a
 
 ---
 
-## 🖼️ Demo
-
-![SmartShelf UI Screenshot](https://via.placeholder.com/800x400.png?text=SmartShelf+UI+Preview)
-
 ### 📽 Demo Video
 
 [![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
@@ -122,9 +118,6 @@ my-react-app/
 ├── package.json
 └── README.md
 ✨ Future Enhancements
-Dropdown filter for genre
-
-Filter by price range
 
 Stripe integration for purchases
 
