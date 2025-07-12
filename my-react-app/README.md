@@ -6,7 +6,7 @@ SmartShelf is a modern React-based web application that fetches book data from a
 
 ## 🚀 Features
 
-- 📖 Displays books in responsive Bootstrap cards
+- 📖 Displays books in Bootstrap cards
 - 🔍 Search by **book name**, **author**, or **genre**
 - 📑 Paginated view for efficient browsing
 - 💳 Price formatted with USD
