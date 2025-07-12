@@ -119,5 +119,4 @@ Stripe integration for purchases
 
 Dark mode toggle
 
-👨‍💻 Author
-Your Name – @Sowmyabvbsn
+👨‍💻 Author - @Sowmyabvbsn
